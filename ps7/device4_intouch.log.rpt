@@ -1,0 +1,83 @@
+DEVICE BOOT REPORT
+
+InTouch log file: device4_intouch.log
+LINE SCANNED: 48794
+
+DEVICE BOOT COUNT: INITIATED = 15, COMPLETED = 15
+
+
+=== DEVICE BOOT ===
+4(device4_intouch.log)2013-Oct-02 18:42:38 BOOT START
+112(device4_intouch.log)2013-Oct-02 18:45:23 BOOT COMPLETE
+	BOOT TIME: 165000ms
+
+=== DEVICE BOOT ===
+747(device4_intouch.log)2013-Oct-03 12:23:21 BOOT START
+855(device4_intouch.log)2013-Oct-03 12:26:15 BOOT COMPLETE
+	BOOT TIME: 174000ms
+
+=== DEVICE BOOT ===
+1459(device4_intouch.log)2013-Oct-04 16:20:03 BOOT START
+1568(device4_intouch.log)2013-Oct-04 16:23:06 BOOT COMPLETE
+	BOOT TIME: 183000ms
+
+=== DEVICE BOOT ===
+31848(device4_intouch.log)2013-Dec-03 16:21:13 BOOT START
+31956(device4_intouch.log)2013-Dec-03 16:24:08 BOOT COMPLETE
+	BOOT TIME: 175000ms
+
+=== DEVICE BOOT ===
+32789(device4_intouch.log)2013-Dec-04 21:50:27 BOOT START
+33032(device4_intouch.log)2013-Dec-04 21:52:57 BOOT COMPLETE
+	BOOT TIME: 150000ms
+
+=== DEVICE BOOT ===
+33145(device4_intouch.log)2013-Dec-04 21:58:45 BOOT START
+33390(device4_intouch.log)2013-Dec-04 22:01:14 BOOT COMPLETE
+	BOOT TIME: 149000ms
+
+=== DEVICE BOOT ===
+33677(device4_intouch.log)2013-Dec-04 22:21:03 BOOT START
+33920(device4_intouch.log)2013-Dec-04 22:23:31 BOOT COMPLETE
+	BOOT TIME: 148000ms
+
+=== DEVICE BOOT ===
+45295(device4_intouch.log)2013-Dec-05 13:34:25 BOOT START
+45538(device4_intouch.log)2013-Dec-05 13:36:55 BOOT COMPLETE
+	BOOT TIME: 150000ms
+
+=== DEVICE BOOT ===
+45615(device4_intouch.log)2013-Dec-05 14:12:25 BOOT START
+45858(device4_intouch.log)2013-Dec-05 14:14:53 BOOT COMPLETE
+	BOOT TIME: 148000ms
+
+=== DEVICE BOOT ===
+46117(device4_intouch.log)2013-Dec-05 15:39:02 BOOT START
+46353(device4_intouch.log)2013-Dec-05 15:41:29 BOOT COMPLETE
+	BOOT TIME: 147000ms
+
+=== DEVICE BOOT ===
+46357(device4_intouch.log)2013-Dec-05 20:20:24 BOOT START
+46600(device4_intouch.log)2013-Dec-05 20:22:54 BOOT COMPLETE
+	BOOT TIME: 150000ms
+
+=== DEVICE BOOT ===
+46792(device4_intouch.log)2013-Dec-10 13:20:43 BOOT START
+47035(device4_intouch.log)2013-Dec-10 13:23:12 BOOT COMPLETE
+	BOOT TIME: 149000ms
+
+=== DEVICE BOOT ===
+47700(device4_intouch.log)2013-Dec-10 19:40:58 BOOT START
+47991(device4_intouch.log)2013-Dec-10 19:43:55 BOOT COMPLETE
+	BOOT TIME: 177000ms
+
+=== DEVICE BOOT ===
+48100(device4_intouch.log)2013-Dec-11 14:09:11 BOOT START
+48341(device4_intouch.log)2013-Dec-11 14:11:41 BOOT COMPLETE
+	BOOT TIME: 150000ms
+
+=== DEVICE BOOT ===
+48345(device4_intouch.log)2013-Dec-11 14:17:49 BOOT START
+48636(device4_intouch.log)2013-Dec-11 14:20:46 BOOT COMPLETE
+	BOOT TIME: 177000ms
+
